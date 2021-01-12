@@ -8,11 +8,11 @@ broj je 714285. 142857 je delilac novonastalog broja. 714285=5×142857
 
 **2. drugi**
 
-Na žurci je došlo n momaka i m devojaka. Momak i devojka mogu plesati samo ukoliko je ime devojka anagram
+Na žurci je došlo n momaka i m devojaka. Momak i devojka mogu plesati samo ukoliko je ime djevojke anagram
 momkovog imena. Koliki je maksimalni broj parava koji mogu igrati u jednom trenutku?
 
 | Ulaz | Izlaz |
 | ------------- | ------------- |
 | n=3 m=2  | 1  |
-| marko ivaan nikola  | Content Cell  |
-| ivana marija  | Content Cell  |
+| marko ivaan nikola  |   |
+| ivana marija  |   |

@@ -47,10 +47,13 @@ public class Drugi {
     }
 
     private void findAnagrams(){
-        for(String femaleName : femaleNames) {
-            for(String maleName : maleNames) {
-                if(isAnagram(femaleName, maleName)){
-                 numberOfAnagrams++;
+
+        for(int i = 0 ; i < femaleNames.size() ; i++) {
+            for( int y = 0 ; y < maleNames.size() ; y++) {
+                if(isAnagram(femaleNames.get(i), maleNames.get(y))){
+                    numberOfAnagrams++;
+                    femaleNames.remove(i);
+                    maleNames.remove(y);
                 }
             }
         }

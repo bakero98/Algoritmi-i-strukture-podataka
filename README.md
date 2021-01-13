@@ -32,6 +32,7 @@ Napisati rekurzivnu funkciju koja određuje da li je zbir cifara unijetog celog 
 **5. peti**
 
 Sortiranje<br>
+| Br. | Ime |
 | ------------- | ------------- |
 | 1 | Bubble Sort |
 | 2 | Insertion Sort |

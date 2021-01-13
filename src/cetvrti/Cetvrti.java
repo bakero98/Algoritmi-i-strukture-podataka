@@ -2,7 +2,7 @@ package cetvrti;
 
 import java.util.Scanner;
 
-//Napisati rekurzivnu funkciju koja određuje da li je zbir cifara nekog celog broja paran.
+//g
 
 public class Cetvrti {
 

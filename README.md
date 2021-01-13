@@ -28,3 +28,13 @@ U suprotnom, gcd(m, n) je jednako gcd(n, m % n).
 **4. cetvrti**
 
 Napisati rekurzivnu funkciju koja određuje da li je zbir cifara unijetog celog broja paran.
+
+**5. peti**
+
+Sortiranje<br>
+| ------------- | ------------- |
+| 1 | Bubble Sort |
+| 2 | Insertion Sort |
+| 3 | Shell Sort |
+| 4 | Merge Sort |
+| 5 | Quick Sort |

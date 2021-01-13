@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f9aefda3-56cc-42e3-b50a-054e7e23e077" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/drugi/Drugi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/drugi/Drugi.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/drugi/Drugi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/drugi/Drugi.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +65,7 @@
       <updated>1610465743163</updated>
       <workItem from="1610465746810" duration="4553000" />
       <workItem from="1610470322656" duration="50000" />
-      <workItem from="1610470450182" duration="3431000" />
+      <workItem from="1610470450182" duration="4744000" />
     </task>
     <servers />
   </component>

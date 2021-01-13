@@ -24,3 +24,7 @@ Euklidov algoritam za odredjivanje NZD dva broja.
 Neka je sa gcd(m, n) označen NZD brojeva m i n:<br>
 Ako je m % n jednako 0, onda je gcd (m, n) jednako n.<br>
 U suprotnom, gcd(m, n) je jednako gcd(n, m % n).
+
+**4. cetvrti**
+
+Napisati rekurzivnu funkciju koja određuje da li je zbir cifara unijetog celog broja paran.

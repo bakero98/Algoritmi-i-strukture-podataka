@@ -39,3 +39,11 @@ Sortiranje<br>
 | 3 | Shell Sort |
 | 4 | Merge Sort |
 | 5 | Quick Sort |
+
+**6. sesti**
+
+Za dati niz dužine n ispitati da li u njemu postoji element koji se javlja vise od n/2 puta.<br>
+| Ulaz | Izlaz |
+| ------------- | ------------- |
+| n = 9 | Da, broj je 5 |
+| 5 7 1 1 5 5 2 5 5 | |

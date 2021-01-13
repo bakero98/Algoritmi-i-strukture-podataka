@@ -16,3 +16,11 @@ momkovog imena. Koliki je maksimalni broj parova koji mogu igrati u jednom trenu
 | n=3 m=2  | 1  |
 | marko ivaan nikola  |   |
 | ivana marija  |   |
+
+**3. treci**
+
+Euklidov algoritam za odredjivanje NZD dva broja.
+
+Neka je sa gcd(m, n) označen NZD brojeva m i n:
+Ako je m % n jednako 0, onda je gcd (m, n) jednako n.
+U suprotnom, gcd(m, n) je jednako gcd(n, m % n).

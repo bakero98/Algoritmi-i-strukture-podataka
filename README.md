@@ -47,3 +47,8 @@ Za dati niz dužine n ispitati da li u njemu postoji element koji se javlja vise
 | ------------- | ------------- |
 | n = 9 | Da, broj je 5 |
 | 5 7 1 1 5 5 2 5 5 | |
+
+**7. sedmi**
+Prijatelji sede za kružnim stolom. Listom L, čiji svaki čvor sadrži ime i pokazivač na
+sledeći čvor dat je njihov redosled sedenja. Ako odbrojavanje, počev od prve, svaka k-ta
+osoba napušta sto ispisati redosled napuštanja stola

@@ -53,3 +53,7 @@ Za dati niz dužine n ispitati da li u njemu postoji element koji se javlja vise
 Prijatelji sede za kružnim stolom. Listom L, čiji svaki čvor sadrži ime i pokazivač na
 sledeći čvor dat je njihov redosled sedenja. Ako odbrojavanje, počev od prve, svaka k-ta
 osoba napušta sto ispisati redosled napuštanja stola
+
+**8. osmi**
+
+Dato je binarno stablo realnih brojeva. Napraviti njegovu kopiju.

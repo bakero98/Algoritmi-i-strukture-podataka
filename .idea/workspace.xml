@@ -3,6 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f9aefda3-56cc-42e3-b50a-054e7e23e077" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/sedmi/CircularlyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/sedmi/CircularlyLinkedList$Node.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/sedmi/CircularlyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/sedmi/CircularlyLinkedList.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,7 +72,9 @@
       <workItem from="1610470322656" duration="50000" />
       <workItem from="1610470450182" duration="7975000" />
       <workItem from="1610568724926" duration="9220000" />
-      <workItem from="1610638863280" duration="12682000" />
+      <workItem from="1610638863280" duration="15431000" />
+      <workItem from="1610766005618" duration="1468000" />
+      <workItem from="1610839222871" duration="271000" />
     </task>
     <servers />
   </component>

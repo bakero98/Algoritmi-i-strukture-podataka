@@ -4,9 +4,12 @@
     <list default="true" id="f9aefda3-56cc-42e3-b50a-054e7e23e077" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/sedmi/CircularlyLinkedList$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/sedmi/CircularlyLinkedList$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/sedmi/CircularlyLinkedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/sedmi/CircularlyLinkedList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/osmi/BinaryTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/osmi/BinaryTree.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/osmi/Osmi.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algoritmi i strukture podataka/osmi/Osmi.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/osmi/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/osmi/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/osmi/Osmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/osmi/Osmi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/peti/Peti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/peti/Peti.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,6 +34,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="zadatak1" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -74,7 +82,13 @@
       <workItem from="1610568724926" duration="9220000" />
       <workItem from="1610638863280" duration="15431000" />
       <workItem from="1610766005618" duration="1468000" />
-      <workItem from="1610839222871" duration="271000" />
+      <workItem from="1610839222871" duration="1204000" />
+      <workItem from="1610934036735" duration="735000" />
+      <workItem from="1611024794643" duration="911000" />
+      <workItem from="1611163066472" duration="13000" />
+      <workItem from="1611360766843" duration="568000" />
+      <workItem from="1611761220461" duration="7000" />
+      <workItem from="1612622851079" duration="11130000" />
     </task>
     <servers />
   </component>

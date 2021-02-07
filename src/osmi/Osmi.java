@@ -37,5 +37,7 @@ public class Osmi {
         BinaryTree.Node root2 = new BinaryTree.Node(100);
         bt.cloneTree(root, root2);
         bt.traverseInOrder(root2);
+
+        System.out.println("Broj listova je = " + bt.getLeafCount(root));
     }
 }

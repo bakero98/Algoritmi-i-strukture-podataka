@@ -39,6 +39,7 @@ Sortiranje<br>
 | 3 | Shell Sort |
 | 4 | Merge Sort |
 | 5 | Quick Sort |
+| 6 | Selection Sort |
 
 **6. sesti**
 
@@ -57,3 +58,19 @@ osoba napušta sto ispisati redosled napuštanja stola
 **8. osmi**
 
 Dato je binarno stablo realnih brojeva. Napraviti njegovu kopiju.
+
+**9. deveti**
+
+Graf
+
+**zadatak1**
+
+Napisati program koji iz fajla ulaz.txt ucitava listu studenata sa prosjecnim ocjenama. U jednom redu je zapisan indeks studenta i prosjecna ocjena. Formirati binarno stablo pretrage od ucitanih podataka i omoguciti korisniku da na osnovu indeksa dobije prosjecnu ocjenu studentam kao i broj indeksa studenta sa najvecom prosjecnom ocjenom. Potrebno je prosiriti klasu Node takod a ukljuci podataka o ocjeni, dok se indeks koristi za pretragu.
+
+**zadatak2**
+
+Tekst ucitan iz fajla input.txt razdvojiti na rijeci i ubaciti ih u listu rijeci. Iz formirane listeizbaciti sve duplikati, a ostaviti prvo pjavljivanje rijeci
+
+**zadatak3*8
+
+Napisati program koji iz liste rijeci, sortira po duzini opadajuce i sortiranu listu rijeci zapisuje u fajl izlaz.txt. Sortiranje izvrsiti implementacijom selection sort-a.
